@@ -45,9 +45,9 @@ body {
 }
 
 .bulb.on {
-    background-color:rgb(232, 114, 114);
-    box-shadow: 0 0 50px rgb(255, 179, 179), 0 0 100px #ffd700, 0 0 150px #ffa500;
-    border: 2px solid #ffd700;
+    background-color:rgb(78, 217, 236);
+    box-shadow: 0 0 50px rgb(49, 197, 246), 0 0 100px #ffd700, 0 0 150px #ffa500;
+    border: 2px solid #00d0ff;
 }
 
 .switch {
